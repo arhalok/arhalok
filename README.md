@@ -1,425 +1,292 @@
-<!-- ========================================================= -->
-
-<!--                         HERO                              -->
-
-<!-- ========================================================= -->
-
 <div align="center">
 
-<a href="https://github.com/arhalok">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:1e293b&height=220&section=header&text=Alok%20Kumar&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20SaaS%20Builder&descAlignY=60&descSize=20&animation=fadeIn" width="100%"/>
-</a>
+# Alok Kumar
 
-<br>
-
-<a href="https://github.com/arhalok">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+Full+Stack+Applications;Exploring+AI+%26+LLM+Systems;Learning+RAG+%26+AI+Application+Architecture;Solving+Data+Structures+%26+Algorithms;Turning+Ideas+Into+Real+Products;Working+Toward+Production-Ready+SaaS" />
-</a>
-
-<br>
+### Computer Science Student · Full-Stack Developer · AI Application Developer
 
 <p>
   <a href="https://github.com/arhalok">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/arhalok">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/arhalok">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
   </a>
-  <a href="mailto:[arhalok@gmail.com](mailto:arhalok@gmail.com)">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:arhalok@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=arhalok&label=PROFILE%20VIEWS&color=0ea5e9&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=arhalok&label=Profile%20Views&style=flat-square&color=0e75b6"/>
 </p>
 
 </div>
 
 ---
 
-# 👨‍💻 Who Am I?
+## About
 
-I'm **Alok Kumar**, a Computer Science student focused on becoming a strong **software engineer and product builder**.
+I'm a **Computer Science student** focused on software engineering, full-stack development, and AI-powered applications.
 
-My interests sit at the intersection of:
+I enjoy building applications end-to-end — from **system design and data modeling to APIs, user interfaces, AI integration, testing, and deployment**.
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  SOFTWARE ENGINEERING                                       │
-│                                                              │
-│  ├── Full Stack Development                                 │
-│  ├── Backend & API Design                                   │
-│  ├── Databases & Data Modeling                              │
-│  ├── System Design                                          │
-│  ├── AI / LLM Applications                                  │
-│  ├── RAG & Retrieval Systems                                │
-│  ├── Developer Infrastructure                               │
-│  ├── Data Structures & Algorithms                           │
-│  └── SaaS Product Development                               │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+My current technical focus is:
 
-I like understanding **how things work underneath the abstraction**, not just making something that happens to work.
+* Full-stack web development
+* Backend and API design
+* Data Structures & Algorithms
+* AI / LLM application development
+* Retrieval-Augmented Generation (RAG)
+* Database design and data modeling
+* Cloud and deployment fundamentals
+* Building SaaS products
 
-My long-term goal is to build products that combine:
-
-**Great UX + solid engineering + useful AI + scalable architecture.**
+Currently working on **SIH 2026**, where I'm contributing to the AI integration layer of an attendance-focused application.
 
 ---
 
-# ⚡ What I'm Focused On
+## Current Focus
 
-<table>
-<tr>
-
-<td width="33%" align="center">
-
-## 🌐
-
-### Full Stack
-
-Building complete applications from frontend to backend.
-
-`React`
-`Next.js`
-`TypeScript`
-`Node.js`
-`PostgreSQL`
-
-</td>
-
-<td width="33%" align="center">
-
-## 🤖
-
-### AI Engineering
-
-Learning how to integrate LLMs into real applications.
-
-`LLMs`
-`RAG`
-`AI SDKs`
-`Embeddings`
-`Tool Calling`
-
-</td>
-
-<td width="33%" align="center">
-
-## 🚀
-
-### SaaS
-
-Interested in turning technical ideas into useful products.
-
-`Architecture`
-`APIs`
-`Auth`
-`Databases`
-`Deployment`
-
-</td>
-
-</tr>
-</table>
-
-```text
-```
+| Area                     | Current Focus                                  |
+| ------------------------ | ---------------------------------------------- |
+| **Software Engineering** | Full-stack application architecture            |
+| **Frontend**             | React, Next.js, TypeScript                     |
+| **Backend**              | Node.js, Express, REST APIs                    |
+| **Database**             | PostgreSQL, Supabase, MySQL                    |
+| **AI**                   | LLM applications, RAG, AI SDKs                 |
+| **Algorithms**           | DSA, problem solving, competitive programming  |
+| **Infrastructure**       | Git, Docker, Linux, Vercel, cloud fundamentals |
+| **Product**              | SaaS architecture and product development      |
 
 ---
 
-# 🚀 What I'm Building
+# Featured Projects
 
-## 🧠 SIH 2026 — AI-Powered Attendance System
+## 01 · SIH 2026 — AI-Powered Attendance System
 
-Currently working on an application for **Smart India Hackathon 2026**.
+**Smart India Hackathon 2026**
 
-The goal is to make attendance information easier to understand and interact with through an intelligent application layer.
+An application focused on making attendance information easier to access, understand, and interact with.
 
-### Engineering Areas
+### My Focus
+
+**AI Integration · RAG · Application Architecture · Data Retrieval**
+
+### Technical Direction
 
 ```text
-User Query
-     │
-     ▼
-┌─────────────────┐
-│   AI Interface  │
-└────────┬────────┘
-         │
-         ▼
-┌─────────────────┐
-│ Query / Intent  │
-│ Understanding   │
-└────────┬────────┘
-         │
-         ▼
-┌─────────────────┐
-│ Retrieval /     │
-│ Application Data│
-└────────┬────────┘
-         │
-         ▼
-┌─────────────────┐
-│ AI Response     │
-│ Generation      │
-└─────────────────┘
+User
+ │
+ ▼
+Application UI
+ │
+ ▼
+AI Application Layer
+ │
+ ├── Request Understanding
+ │
+ ├── Context Retrieval
+ │
+ ├── Application Data
+ │
+ └── Model Interaction
+ │
+ ▼
+Response
 ```
 
-### Current Technology Direction
+### Technologies
 
 `Next.js` · `React` · `TypeScript` · `Vercel AI SDK` · `RAG` · `PostgreSQL` · `Supabase`
 
-🔗 **Project**
-
+**Repository:**
 https://github.com/konark-dev/student-portfolio
 
 ---
 
-# 💬 Matrix Chat Application
+## 02 · Matrix Chat Application
 
-Exploring the architecture behind modern communication applications.
+A full-stack exploration of modern real-time communication systems.
 
-### Areas of Interest
+### Engineering Areas
 
-* Real-time communication
+* Real-time messaging
 * Authentication
 * Message persistence
-* Database architecture
-* API design
+* Database modeling
+* API architecture
 * Media handling
-* Scalable application structure
 * Real-time synchronization
+* Scalable application structure
 
-🔗 **Project**
+### Technologies
 
+`React` · `TypeScript` · `Node.js` · `Web APIs` · `Database Systems`
+
+**Repository:**
 https://github.com/arhalok/element-web
 
 ---
 
-# 🧪 What I Want To Build Next
+## 03 · SaaS / AI Projects
 
-I'm interested in building products around:
+I'm actively developing additional projects around AI-powered software and SaaS.
 
-<table>
-<tr>
-<td>🤖 AI Applications</td>
-<td>🚀 SaaS Products</td>
-<td>💬 Real-Time Systems</td>
-</tr>
-<tr>
-<td>🧰 Developer Tools</td>
-<td>📊 Data Products</td>
-<td>🔎 Intelligent Search</td>
-</tr>
-<tr>
-<td>⚙️ Automation</td>
-<td>🌐 Full Stack Platforms</td>
-<td>🧠 AI Agents</td>
-</tr>
-</table>
+Projects will be added here as they reach a state where the implementation and engineering decisions can be evaluated publicly.
 
 ---
 
-# 🤖 AI Engineering 
+# Technical Skills
 
-### Currently Exploring
+## Languages
 
-| Area              | Focus                                            |
-| ----------------- | ------------------------------------------------ |
-| **LLMs**          | Understanding model-powered applications         |
-| **RAG**           | Retrieval, context construction, grounding       |
-| **Embeddings**    | Representing and retrieving semantic information |
-| **AI SDKs**       | Streaming, tool calling, structured generation   |
-| **AI Agents**     | Tool-driven application workflows                |
-| **AI UX**         | Building useful interfaces around AI             |
-| **Production AI** | Reliability, safety, latency and cost            |
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript" />
+</p>
+
+**C++ · Python · JavaScript · TypeScript**
 
 ---
 
-# 🧩 Full Stack Engineering
+## Frontend
 
-### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+</p>
 
-I enjoy building interfaces with:
-
-`HTML` · `CSS` · `JavaScript` · `TypeScript`
-`React` · `Next.js` · `Tailwind CSS`
-
-### Backend
-
-Interested in:
-
-`Node.js` · `Express` · `REST APIs` · `Server Architecture`
-
-### Data
-
-Working with:
-
-`PostgreSQL` · `MySQL` · `Supabase` · `Firebase`
-
-### Infrastructure
-
-Exploring:
-
-`Git` · `GitHub` · `Docker` · `Linux`
-`AWS` · `GCP` · `Nginx` · `Vercel`
+**HTML · CSS · JavaScript · TypeScript · React · Next.js · Tailwind CSS**
 
 ---
 
-# 🧠 Engineering Areas I'm Developing
+## Backend
 
-<div align="center">
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-<table>
-<tr>
-
-<td align="center" width="25%">
-
-### 🏛️
-
-**Architecture**
-
-Designing applications
-with clear boundaries
-
-</td>
-
-<td align="center" width="25%">
-
-### 🗄️
-
-**Data**
-
-Schemas, queries,
-relationships & storage
-
-</td>
-
-<td align="center" width="25%">
-
-### 🔌
-
-**APIs**
-
-Communication between
-services & clients
-
-</td>
-
-<td align="center" width="25%">
-
-### ☁️
-
-**Deployment**
-
-Containers, cloud,
-CI/CD & infrastructure
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-### 🔐
-
-**Security**
-
-Authentication,
-authorization & RLS
-
-</td>
-
-<td align="center">
-
-### ⚡
-
-**Performance**
-
-Caching, queries,
-rendering & latency
-
-</td>
-
-<td align="center">
-
-### 🧪
-
-**Testing**
-
-Reliability, debugging
-& maintainability
-
-</td>
-
-<td align="center">
-
-### 📈
-
-**Scalability**
-
-Designing systems
-that can grow
-
-</td>
-
-</tr>
-</table>
-
-</div>
+**Node.js · Express · REST APIs · Server-side development**
 
 ---
 
-# 🧠 Data Structures & Algorithms
+## Databases
 
-Alongside development, I'm actively strengthening my problem-solving skills.
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,firebase" />
+</p>
 
-### Current DSA Path
+**PostgreSQL · MySQL · Supabase · Firebase**
+
+---
+
+## AI / Machine Learning Applications
+
+**LLM Applications · RAG · Embeddings · Vector Search · AI SDKs · Tool Calling · Structured Generation**
+
+My current focus is on understanding how these components fit into production applications rather than treating an LLM as an isolated API call.
+
+---
+
+## DevOps / Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,gcp,nginx,vercel" />
+</p>
+
+**Git · GitHub · Docker · Linux · AWS · GCP · Nginx · Vercel**
+
+---
+
+# AI Engineering
+
+I'm currently developing practical knowledge around the architecture of LLM-powered applications.
+
+### Application Flow
 
 ```text
-Arrays
-  ↓
-Binary Search
-  ↓
-Recursion
-  ↓
-Sorting
-  ↓
-Linked Lists
-  ↓
-Stacks / Queues
-  ↓
-Trees / BST
-  ↓
-Graphs
-  ↓
-Greedy
-  ↓
-Sliding Window
-  ↓
-Dynamic Programming
+                 User Request
+                      │
+                      ▼
+              ┌───────────────┐
+              │ Application   │
+              │    Layer      │
+              └───────┬───────┘
+                      │
+              ┌───────┴────────┐
+              │                │
+              ▼                ▼
+        Retrieve Context    Use Tools
+              │                │
+              └───────┬────────┘
+                      │
+                      ▼
+                 LLM / Model
+                      │
+                      ▼
+             Structured Response
+                      │
+                      ▼
+                    User
 ```
 
-### Problem Solving
+### Areas I'm Learning
 
-My approach is:
+* LLM APIs
+* Prompt and context design
+* Streaming responses
+* Structured outputs
+* Tool calling
+* Retrieval systems
+* Embeddings
+* Vector search
+* RAG pipelines
+* AI application safety
+* AI latency and cost considerations
+* Evaluation and reliability
 
-**Understand → Identify Pattern → Implement → Analyze → Revisit**
+---
 
-I'm particularly interested in understanding **why an algorithm works**, rather than memorizing solutions.
+# Data Structures & Algorithms
+
+I am actively preparing for software engineering interviews through structured DSA practice.
+
+### Topics
+
+`Arrays` · `Strings` · `Hashing` · `Binary Search`
+
+`Recursion` · `Sorting` · `Linked Lists`
+
+`Stacks` · `Queues` · `Trees` · `BST`
+
+`Graphs` · `Greedy` · `Sliding Window`
+
+`Dynamic Programming`
+
+### Problem-Solving Approach
+
+```text
+Understand the Problem
+        ↓
+Identify Constraints
+        ↓
+Find the Pattern
+        ↓
+Design the Algorithm
+        ↓
+Analyze Time & Space
+        ↓
+Implement
+        ↓
+Test Edge Cases
+        ↓
+Optimize
+```
 
 ### Coding Profiles
 
-<div align="center">
-
+<p>
 <a href="https://leetcode.com/arhalok">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
@@ -436,115 +303,77 @@ I'm particularly interested in understanding **why an algorithm works**, rather 
 <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
-<a href="https://www.kaggle.com/arhalok">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</a>
-
-</div>
+</p>
 
 ---
 
-# 🛠️ Technology Arsenal
+# Engineering Principles
+
+### 01 — Understand the fundamentals
+
+I try to understand the underlying concepts behind the abstractions I use.
+
+### 02 — Prefer simple architecture
+
+Complexity should solve a real problem, not create one.
+
+### 03 — Measure before optimizing
+
+Performance improvements should be driven by actual bottlenecks.
+
+### 04 — Design for failure
+
+Production systems need to handle invalid input, network failures, concurrency, and unexpected states.
+
+### 05 — Build end-to-end
+
+I learn fastest when I take a feature from:
+
+**Idea → Design → Implementation → Testing → Deployment**
+
+---
+
+# Education
+
+### 🎓 Computer Science
+
+**Currently pursuing a Computer Science degree**
+
+Focused on:
+
+`Data Structures & Algorithms` · `Operating Systems` · `DBMS` · `Computer Networks` · `Software Engineering`
+
+> Add your **college/university name, degree, and expected graduation year** here. These are important for recruiter-facing profiles.
+
+---
+
+# Achievements & Experience
+
+### 🏆 Smart India Hackathon 2026
+
+Working as part of a team on an AI-powered attendance solution.
+
+**Contribution:** AI integration and application architecture.
+
+### 💻 Competitive Programming
+
+Actively practicing algorithmic problem solving through:
+
+**LeetCode · Codeforces · CodeChef · HackerRank**
+
+### 🚀 Open Source / Projects
+
+Building and experimenting with full-stack and AI applications to develop practical software engineering experience.
+
+---
+
+# GitHub Activity
 
 <div align="center">
 
-### Languages
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=arhalok&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
 
-<img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript" />
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
-
-### Backend & Databases
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,firebase,supabase" />
-
-### Cloud & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,nginx,vercel" />
-
-### Tools & Design
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-
-</div>
-
----
-
-# 📚 Learning Philosophy
-
-I don't want to just learn frameworks.
-
-I want to understand the layers underneath them.
-
-```text
-Framework
-    ↓
-Runtime
-    ↓
-Protocol
-    ↓
-Architecture
-    ↓
-Computer Science
-```
-
-For example:
-
-```text
-Next.js
-   ↓
-React
-   ↓
-JavaScript Runtime
-   ↓
-HTTP / Browser / Server
-   ↓
-Networking + OS + CS Fundamentals
-```
-
-That mindset is something I want to carry into every technology I learn.
-
----
-
-# 🎯 My Current Roadmap
-
-```text
-                         SOFTWARE ENGINEER
-                                │
-              ┌─────────────────┼─────────────────┐
-              │                 │                 │
-              ▼                 ▼                 ▼
-          DSA / CS          FULL STACK           AI
-              │                 │                 │
-              ▼                 ▼                 ▼
-        Problem Solving     Applications        LLMs
-              │                 │                 │
-              ▼                 ▼                 ▼
-         System Design      Backend / DB        RAG
-              │                 │                 │
-              └─────────────────┼─────────────────┘
-                                │
-                                ▼
-                         PRODUCT ENGINEERING
-                                │
-                                ▼
-                             SaaS
-                                │
-                                ▼
-                      BUILD → SHIP → SCALE
-```
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=arhalok&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arhalok&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arhalok&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 
 </div>
 
@@ -552,98 +381,40 @@ That mindset is something I want to carry into every technology I learn.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arhalok&theme=tokyonight&hide_border=true" width="70%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arhalok&theme=github-dark-blue&hide_border=true" width="65%" />
 
 </div>
 
 ---
 
-# 📈 Contribution Activity
+# Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arhalok&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arhalok&theme=github-compact&hide_border=true&area=true" width="95%" />
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+# Connect
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=arhalok&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=6" />
+If you're interested in **software engineering, AI applications, SaaS, or building products**, feel free to connect.
 
-</div>
-
----
-
-# 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/arhalok/arhalok/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
-# 🌱 Beyond Code
-
-When I'm not coding, I enjoy staying active and competitive.
-
-### 🏆 Kabbadi
-
-I play **Kabbadi**, which has taught me a lot about:
-
-`Teamwork` · `Decision Making` · `Discipline` · `Consistency`
-
----
-
-# 💡 Things I Care About
-
-```text
-┌─────────────────────────────────────────────┐
-│                                             │
-│  🧠 Understanding over memorization         │
-│                                             │
-│  🏗️ Architecture over shortcuts             │
-│                                             │
-│  ✨ User experience over unnecessary complexity│
-│                                             │
-│  🔒 Security by design                      │
-│                                             │
-│  ⚡ Performance where it matters             │
-│                                             │
-│  🧪 Reliability over "works on my machine"   │
-│                                             │
-│  🚀 Shipping over endless planning           │
-│                                             │
-└─────────────────────────────────────────────┘
-```
-
----
-
-# 🤝 Let's Build Something
-
-I'm interested in collaborating on:
-
-**AI applications · Full Stack products · SaaS · Developer tools · Open source · Interesting engineering problems**
-
-If you're building something interesting, feel free to reach out.
-
-<div align="center">
-
-<a href="mailto:[arhalok@gmail.com](mailto:arhalok@gmail.com)">
-<img src="https://img.shields.io/badge/Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<br>
 
 <a href="https://linkedin.com/in/arhalok">
-<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:arhalok@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/arhalok">
-<img src="https://img.shields.io/badge/Explore%20My%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -652,10 +423,6 @@ If you're building something interesting, feel free to reach out.
 
 <div align="center">
 
-### ⚡ Build with purpose. Learn deeply. Ship relentlessly.
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,50:111827,100:0f172a&height=120&section=footer"/>
+**Build → Learn → Measure → Improve → Repeat**
 
 </div>
