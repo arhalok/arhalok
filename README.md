@@ -2,32 +2,30 @@
 
 # Alok Kumar
 
-### Software Engineer · Full-Stack Development · AI Applications
+### B.Tech Student · Competitive Programmer · Backend & Full-Stack Developer
 
-**Computer Science student building end-to-end software with a focus on engineering fundamentals, product quality, and applied AI.**
+Building software with a focus on **backend engineering, problem solving, and AI-powered applications.**
 
 <br />
 
+<a href="https://github.com/arhalok">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+&nbsp;
 <a href="https://linkedin.com/in/arhalok">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://leetcode.com/arhalok">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
 </a>
 &nbsp;
 <a href="https://codeforces.com/profile/arhalok">
-<img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" />
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" />
 </a>
 &nbsp;
 <a href="mailto:arhalok@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-</a>
-
-<br /><br />
-
-<a href="YOUR_RESUME_URL">
-<img src="https://img.shields.io/badge/Resume-View%20Resume-24292F?style=for-the-badge&logo=readme&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 
 </div>
@@ -36,165 +34,216 @@
 
 ## About
 
-I build software across the stack — from **interfaces and APIs to data systems and AI-powered features**.
+I'm a **B.Tech student at PIET Jaipur**, graduating in **2029**, focused on software engineering and competitive programming.
 
-My engineering work combines:
+My primary interests are **backend development, full-stack applications, algorithms, databases, and AI integration**.
 
-**Full-Stack Development · Backend Engineering · AI Applications · Databases · Algorithms**
-
-I care about the parts of software that remain important regardless of framework: **correctness, clear abstractions, maintainability, performance, and thoughtful system design.**
+I enjoy taking a problem from idea to implementation — designing the data model, building the backend, connecting the frontend, integrating AI where it adds value, and shipping the result.
 
 ---
 
-## Selected Work
-
-### SIH 2026 — AI-Powered Attendance System
-
-**Smart India Hackathon 2026**
-
-An intelligent attendance platform that combines application data with an AI interaction layer to make attendance information easier to query and understand.
-
-**Contribution**
-
-AI integration · application architecture · retrieval workflows
-
-**Technology**
-
-`Next.js` `React` `TypeScript` `Vercel AI SDK`
-`PostgreSQL` `Supabase` `RAG`
-
-**Repository →**
-https://github.com/konark-dev/student-portfolio
-
----
-
-### Matrix Chat Application
-
-A full-stack messaging application focused on the engineering challenges behind modern real-time communication.
-
-**Engineering**
-
-Real-time messaging · authentication · persistence · client/server communication · synchronization
-
-**Technology**
-
-`React` `TypeScript` `Node.js` `Web APIs`
-
-**Repository →**
-https://github.com/arhalok/element-web
-
----
-
-## Technical Profile
+## What I Build
 
 <table>
 <tr>
-<td width="50%" valign="top">
 
-### Software Engineering
+<td width="33%" valign="top">
 
-**Languages**
+### Backend
 
-C++ · Python · JavaScript · TypeScript
+Designing APIs and application logic with an emphasis on clear data flow and maintainable systems.
 
-**Frontend**
-
-React · Next.js · HTML · CSS · Tailwind CSS
-
-**Backend**
-
-Node.js · Express · REST APIs
-
-**Databases**
-
-PostgreSQL · MySQL · Supabase · Firebase
+`Node.js`  
+`Express`  
+`REST APIs`  
+`PostgreSQL`  
+`SQL`
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### Engineering Domains
+### Full Stack
 
-**AI Applications**
+Building complete web applications from interface to database.
 
-LLM integration · RAG · embeddings · retrieval · tool calling · structured generation
-
-**Infrastructure**
-
-Git · GitHub · Docker · Linux · Vercel · AWS · GCP · Nginx
-
-**Computer Science**
-
-Data structures · algorithms · DBMS · operating systems · computer networks
+`React`  
+`Next.js`  
+`TypeScript`  
+`Supabase`  
+`Tailwind`
 
 </td>
+
+<td width="33%" valign="top">
+
+### AI Applications
+
+Integrating AI capabilities into applications where they provide real utility.
+
+`LLMs`  
+`RAG`  
+`AI SDKs`  
+`Embeddings`  
+`Tool Calling`
+
+</td>
+
 </tr>
 </table>
 
 ---
 
-## Problem Solving
+# Selected Projects
 
-I use competitive programming and algorithmic practice to strengthen **reasoning, complexity analysis, implementation, and edge-case handling**.
+## SIH 2026 — AI-Powered Attendance System
 
-**Core areas**
+An AI-enabled attendance platform developed for **Smart India Hackathon 2026**.
 
-`Arrays` · `Hashing` · `Binary Search` · `Recursion`
-`Sorting` · `Linked Lists` · `Stacks` · `Queues`
-`Trees` · `Graphs` · `Greedy` · `Sliding Window`
-`Dynamic Programming`
+The system combines application data with an AI interaction layer to make attendance information easier to access and understand.
 
-<div align="left">
+**My focus:** AI integration and application development.
 
-<a href="https://leetcode.com/arhalok">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
-</a>
-<a href="https://codeforces.com/profile/arhalok">
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" />
-</a>
-<a href="https://www.codechef.com/users/arhalok">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" />
-</a>
-<a href="https://www.hackerrank.com/arhalok">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />
-</a>
+**Stack**
 
-</div>
+`Next.js` · `React` · `TypeScript` · `Vercel AI SDK`  
+`PostgreSQL` · `Supabase` · `RAG`
+
+**Repository →**  
+https://github.com/konark-dev/student-portfolio
 
 ---
 
-## Experience & Achievements
+## Matrix Chat Application
+
+A full-stack exploration of modern messaging and real-time communication.
+
+The project covers areas including **authentication, message persistence, client/server communication, real-time synchronization, and application state**.
+
+**Stack**
+
+`React` · `TypeScript` · `Node.js` · `Web APIs`
+
+**Repository →**  
+https://github.com/arhalok/element-web
+
+---
+
+# Competitive Programming
+
+Competitive programming is a major part of my development journey.
+
+I use algorithmic problem solving to strengthen:
+
+- Problem decomposition
+- Pattern recognition
+- Complexity analysis
+- Data structures
+- Algorithm design
+- Edge-case reasoning
+- Implementation under constraints
+
+### Core Topics
+
+`Arrays` · `Strings` · `Hashing` · `Binary Search`
+
+`Recursion` · `Sorting` · `Linked Lists`
+
+`Stacks` · `Queues` · `Trees` · `Graphs`
+
+`Greedy` · `Sliding Window` · `Dynamic Programming`
+
+<br />
+
+<a href="https://leetcode.com/arhalok">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+</a>
+&nbsp;
+<a href="https://codeforces.com/profile/arhalok">
+<img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.codechef.com/users/arhalok">
+<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=flat-square&logo=codechef&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.hackerrank.com/arhalok">
+<img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />
+</a>
+
+---
+
+# Technology
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript" />
+</p>
+
+### Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,tailwind" />
+</p>
+
+### Databases & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,firebase,aws,gcp" />
+</p>
+
+### Tools & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx,vercel,figma" />
+</p>
+
+---
+
+# AI Applications
+
+My AI work focuses on integrating models into real software rather than treating AI as a standalone chatbot.
+
+Areas include:
+
+**LLM Integration** · **RAG** · **Embeddings** · **Retrieval** · **Tool Calling** · **Structured Outputs** · **Streaming**
+
+The goal is to connect AI capabilities with application data, business logic, and useful user workflows.
+
+---
+
+# Education
+
+### Bachelor of Technology — B.Tech
+
+**PIET Jaipur**
+
+**Expected Graduation: 2029**
+
+---
+
+# Achievements & Activities
 
 ### Smart India Hackathon 2026
 
-**AI Integration · Application Engineering**
+Working as part of a team on an AI-powered attendance solution.
 
-Contributing to the development of an AI-powered attendance solution as part of a competitive hackathon team.
+**Focus:** AI integration and application development.
 
 ### Competitive Programming
 
-Algorithmic problem solving across **LeetCode, Codeforces, CodeChef, and HackerRank**.
+Active problem solving across:
+
+**LeetCode · Codeforces · CodeChef · HackerRank**
 
 ### Kabbadi
 
-Competitive sport and a long-standing interest outside software engineering.
+Competitive sport and an interest outside software engineering.
 
 ---
 
-## Education
-
-**Computer Science**
-
-`YOUR UNIVERSITY`
-`YOUR DEGREE · EXPECTED GRADUATION YEAR`
-
-Relevant coursework:
-
-**Data Structures & Algorithms · DBMS · Operating Systems · Computer Networks · Software Engineering**
-
----
-
-## GitHub Activity
+# GitHub
 
 <div align="center">
 
@@ -210,16 +259,14 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=arhalok&layo
 
 <div align="center">
 
-<a href="https://github.com/arhalok">
-<img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-&nbsp;
+### Let's Connect
+
 <a href="https://linkedin.com/in/arhalok">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-&nbsp;
-<a href="YOUR_RESUME_URL">
-<img src="https://img.shields.io/badge/Resume-View-24292F?style=for-the-badge&logo=readme&logoColor=white" />
+
+<a href="mailto:arhalok@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
@@ -228,6 +275,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=arhalok&layo
 
 <br />
 
-**Building useful software. Solving hard problems.**
+**Build · Solve · Ship**
 
 </div>
