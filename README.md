@@ -1,307 +1,424 @@
+<!-- ========================================================= -->
+
+<!--                         HERO                              -->
+
+<!-- ========================================================= -->
+
 <div align="center">
 
-# 👋 Hey, I'm **Alok Kumar**
+<a href="https://github.com/arhalok">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:1e293b&height=220&section=header&text=Alok%20Kumar&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20SaaS%20Builder&descAlignY=60&descSize=20&animation=fadeIn" width="100%"/>
+</a>
 
-### Full Stack Developer · AI Engineer · SaaS Builder
+<br>
+
+<a href="https://github.com/arhalok">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+Full+Stack+Applications;Exploring+AI+%26+LLM+Systems;Learning+RAG+%26+AI+Application+Architecture;Solving+Data+Structures+%26+Algorithms;Turning+Ideas+Into+Real+Products;Working+Toward+Production-Ready+SaaS" />
+</a>
+
+<br>
 
 <p>
   <a href="https://github.com/arhalok">
-    <img src="https://img.shields.io/github/followers/arhalok?label=Followers&style=for-the-badge&logo=github&color=181717" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://github.com/arhalok?tab=repositories">
-    <img src="https://img.shields.io/github/stars/arhalok?label=Stars&style=for-the-badge&logo=github&color=181717" />
+  <a href="https://linkedin.com/in/arhalok">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=arhalok&label=Profile%20Views&style=for-the-badge&color=0e75b6" />
+  <a href="https://leetcode.com/arhalok">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="mailto:[arhalok@gmail.com](mailto:arhalok@gmail.com)">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 <p>
-  <a href="https://linkedin.com/in/arhalok">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:arhalok@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/arhalok">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=arhalok&label=PROFILE%20VIEWS&color=0ea5e9&style=for-the-badge"/>
 </p>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+# 👨‍💻 Who Am I?
 
-I'm a **Computer Science student and developer** focused on building modern web applications, AI-powered products, and scalable SaaS systems.
+I'm **Alok Kumar**, a Computer Science student focused on becoming a strong **software engineer and product builder**.
 
-I enjoy taking an idea from:
-
-**Problem → Architecture → Development → AI Integration → Deployment**
-
-Currently, I'm going deeper into **full-stack development, AI engineering, RAG systems, and scalable application architecture**.
+My interests sit at the intersection of:
 
 ```text
-🎯 Main Focus
-├── Full Stack Development
-├── AI / LLM Applications
-├── RAG & AI Integration
-├── Data Structures & Algorithms
-└── SaaS Product Development
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  SOFTWARE ENGINEERING                                       │
+│                                                              │
+│  ├── Full Stack Development                                 │
+│  ├── Backend & API Design                                   │
+│  ├── Databases & Data Modeling                              │
+│  ├── System Design                                          │
+│  ├── AI / LLM Applications                                  │
+│  ├── RAG & Retrieval Systems                                │
+│  ├── Developer Infrastructure                               │
+│  ├── Data Structures & Algorithms                           │
+│  └── SaaS Product Development                               │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
 
----
+I like understanding **how things work underneath the abstraction**, not just making something that happens to work.
 
-## 🚀 What I'm Currently Building
+My long-term goal is to build products that combine:
 
-### 🧠 AI-Powered Applications
-
-Exploring how LLMs can be integrated into real-world applications rather than simply building chatbots.
-
-**Currently exploring:**
-
-* RAG architectures
-* Vercel AI SDK
-* LLM application architecture
-* AI agents & tools
-* Context-aware applications
-* Vector search
-* AI-powered data analysis
+**Great UX + solid engineering + useful AI + scalable architecture.**
 
 ---
 
-### 🌐 Full Stack Applications
-
-Building production-oriented applications using modern web technologies.
-
-**Current stack:**
-
-`React` · `Next.js` · `TypeScript` · `Node.js` · `PostgreSQL` · `Supabase`
-
----
-
-### 🚀 SaaS
-
-My long-term goal is to build and launch useful **SaaS products**.
-
-I'm particularly interested in:
-
-* Product architecture
-* Authentication
-* Payments
-* APIs
-* AI features
-* Database design
-* Scalability
-* Deployment
-* Developer experience
-
----
-
-# 🏗️ Featured Projects
-
-<div align="center">
+# ⚡ What I'm Focused On
 
 <table>
 <tr>
 
-<td width="50%">
+<td width="33%" align="center">
 
-<h3>🤖 SIH 2026</h3>
+## 🌐
 
-<p>
-AI-powered attendance management system designed to make attendance data easier to understand and interact with.
-</p>
+### Full Stack
 
-<b>Focus</b>
+Building complete applications from frontend to backend.
 
-<br>
-
-`AI Integration` `RAG` `Vercel AI SDK`
-`Analytics` `Natural Language`
-
-<br><br>
-
-<a href="https://github.com/konark-dev/student-portfolio">
-  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
-</a>
+`React`
+`Next.js`
+`TypeScript`
+`Node.js`
+`PostgreSQL`
 
 </td>
 
-<td width="50%">
+<td width="33%" align="center">
 
-<h3>💬 Matrix Chat Application</h3>
+## 🤖
 
-<p>
-Exploring modern real-time communication architecture and scalable messaging systems.
-</p>
+### AI Engineering
 
-<b>Focus</b>
+Learning how to integrate LLMs into real applications.
 
-<br>
+`LLMs`
+`RAG`
+`AI SDKs`
+`Embeddings`
+`Tool Calling`
 
-`Real-Time` `Full Stack` `Authentication`
-`Database` `Scalable Architecture`
+</td>
 
-<br><br>
+<td width="33%" align="center">
 
-<a href="https://github.com/arhalok/element-web">
-  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
-</a>
+## 🚀
+
+### SaaS
+
+Interested in turning technical ideas into useful products.
+
+`Architecture`
+`APIs`
+`Auth`
+`Databases`
+`Deployment`
 
 </td>
 
 </tr>
 </table>
 
-</div>
+```text
+```
 
 ---
 
-# 🧰 Technology Stack
+# 🚀 What I'm Building
 
-### 💻 Languages
+## 🧠 SIH 2026 — AI-Powered Attendance System
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript" />
-</p>
+Currently working on an application for **Smart India Hackathon 2026**.
 
-### 🎨 Frontend
+The goal is to make attendance information easier to understand and interact with through an intelligent application layer.
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
-</p>
+### Engineering Areas
 
-### ⚙️ Backend
+```text
+User Query
+     │
+     ▼
+┌─────────────────┐
+│   AI Interface  │
+└────────┬────────┘
+         │
+         ▼
+┌─────────────────┐
+│ Query / Intent  │
+│ Understanding   │
+└────────┬────────┘
+         │
+         ▼
+┌─────────────────┐
+│ Retrieval /     │
+│ Application Data│
+└────────┬────────┘
+         │
+         ▼
+┌─────────────────┐
+│ AI Response     │
+│ Generation      │
+└─────────────────┘
+```
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+### Current Technology Direction
 
-### 🗄️ Databases
+`Next.js` · `React` · `TypeScript` · `Vercel AI SDK` · `RAG` · `PostgreSQL` · `Supabase`
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,supabase" />
-</p>
+🔗 **Project**
 
-### ☁️ Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,docker,aws,gcp,nginx,linux,vercel" />
-</p>
-
-### 🎨 Design & Development Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=figma,github,vscode" />
-</p>
+https://github.com/konark-dev/student-portfolio
 
 ---
 
-# 🤖 AI Engineering
+# 💬 Matrix Chat Application
+
+Exploring the architecture behind modern communication applications.
+
+### Areas of Interest
+
+* Real-time communication
+* Authentication
+* Message persistence
+* Database architecture
+* API design
+* Media handling
+* Scalable application structure
+* Real-time synchronization
+
+🔗 **Project**
+
+https://github.com/arhalok/element-web
+
+---
+
+# 🧪 What I Want To Build Next
+
+I'm interested in building products around:
+
+<table>
+<tr>
+<td>🤖 AI Applications</td>
+<td>🚀 SaaS Products</td>
+<td>💬 Real-Time Systems</td>
+</tr>
+<tr>
+<td>🧰 Developer Tools</td>
+<td>📊 Data Products</td>
+<td>🔎 Intelligent Search</td>
+</tr>
+<tr>
+<td>⚙️ Automation</td>
+<td>🌐 Full Stack Platforms</td>
+<td>🧠 AI Agents</td>
+</tr>
+</table>
+
+---
+
+# 🤖 AI Engineering 
+
+### Currently Exploring
+
+| Area              | Focus                                            |
+| ----------------- | ------------------------------------------------ |
+| **LLMs**          | Understanding model-powered applications         |
+| **RAG**           | Retrieval, context construction, grounding       |
+| **Embeddings**    | Representing and retrieving semantic information |
+| **AI SDKs**       | Streaming, tool calling, structured generation   |
+| **AI Agents**     | Tool-driven application workflows                |
+| **AI UX**         | Building useful interfaces around AI             |
+| **Production AI** | Reliability, safety, latency and cost            |
+
+---
+
+# 🧩 Full Stack Engineering
+
+### Frontend
+
+I enjoy building interfaces with:
+
+`HTML` · `CSS` · `JavaScript` · `TypeScript`
+`React` · `Next.js` · `Tailwind CSS`
+
+### Backend
+
+Interested in:
+
+`Node.js` · `Express` · `REST APIs` · `Server Architecture`
+
+### Data
+
+Working with:
+
+`PostgreSQL` · `MySQL` · `Supabase` · `Firebase`
+
+### Infrastructure
+
+Exploring:
+
+`Git` · `GitHub` · `Docker` · `Linux`
+`AWS` · `GCP` · `Nginx` · `Vercel`
+
+---
+
+# 🧠 Engineering Areas I'm Developing
 
 <div align="center">
 
 <table>
 <tr>
+
 <td align="center" width="25%">
 
-### 🧠
+### 🏛️
 
-**LLMs**
+**Architecture**
 
-Large Language
-Model Applications
+Designing applications
+with clear boundaries
 
 </td>
 
 <td align="center" width="25%">
 
-### 🔎
+### 🗄️
 
-**RAG**
+**Data**
 
-Retrieval
-Augmented Generation
+Schemas, queries,
+relationships & storage
 
 </td>
 
 <td align="center" width="25%">
+
+### 🔌
+
+**APIs**
+
+Communication between
+services & clients
+
+</td>
+
+<td align="center" width="25%">
+
+### ☁️
+
+**Deployment**
+
+Containers, cloud,
+CI/CD & infrastructure
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+### 🔐
+
+**Security**
+
+Authentication,
+authorization & RLS
+
+</td>
+
+<td align="center">
 
 ### ⚡
 
-**AI SDK**
+**Performance**
 
-Streaming
-Tool Calling
+Caching, queries,
+rendering & latency
+
+</td>
+
+<td align="center">
+
+### 🧪
+
+**Testing**
+
+Reliability, debugging
+& maintainability
 
 </td>
 
-<td align="center" width="25%">
+<td align="center">
 
-### 🏗️
+### 📈
 
-**AI Systems**
+**Scalability**
 
-Production
-AI Architecture
+Designing systems
+that can grow
 
 </td>
+
 </tr>
 </table>
 
 </div>
-
-### Current AI Learning Path
-
-```text
-LLMs
- │
- ├── Prompt Engineering
- │
- ├── Structured Outputs
- │
- ├── Streaming
- │
- └── Tool Calling
- │
- ▼
-RAG
- │
- ├── Embeddings
- ├── Vector Search
- ├── Retrieval
- └── Context Construction
- │
- ▼
-AI Applications
- │
- ├── Agents
- ├── AI Features
- ├── Data Analysis
- └── Production Systems
-```
 
 ---
 
 # 🧠 Data Structures & Algorithms
 
-I'm actively improving my problem-solving skills for technical interviews and competitive programming.
+Alongside development, I'm actively strengthening my problem-solving skills.
 
-### Core Topics
+### Current DSA Path
 
-<p align="center">
+```text
+Arrays
+  ↓
+Binary Search
+  ↓
+Recursion
+  ↓
+Sorting
+  ↓
+Linked Lists
+  ↓
+Stacks / Queues
+  ↓
+Trees / BST
+  ↓
+Graphs
+  ↓
+Greedy
+  ↓
+Sliding Window
+  ↓
+Dynamic Programming
+```
 
-`Arrays` · `Binary Search` · `Recursion` · `Sorting`
+### Problem Solving
 
-`Linked Lists` · `Stacks` · `Queues` · `Trees`
+My approach is:
 
-`Graphs` · `Greedy` · `Sliding Window` · `Dynamic Programming`
+**Understand → Identify Pattern → Implement → Analyze → Revisit**
 
-</p>
+I'm particularly interested in understanding **why an algorithm works**, rather than memorizing solutions.
 
 ### Coding Profiles
 
-<p align="center">
+<div align="center">
 
 <a href="https://leetcode.com/arhalok">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
@@ -319,7 +436,105 @@ I'm actively improving my problem-solving skills for technical interviews and co
 <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
-</p>
+<a href="https://www.kaggle.com/arhalok">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 🛠️ Technology Arsenal
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+
+### Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,firebase,supabase" />
+
+### Cloud & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,nginx,vercel" />
+
+### Tools & Design
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+
+</div>
+
+---
+
+# 📚 Learning Philosophy
+
+I don't want to just learn frameworks.
+
+I want to understand the layers underneath them.
+
+```text
+Framework
+    ↓
+Runtime
+    ↓
+Protocol
+    ↓
+Architecture
+    ↓
+Computer Science
+```
+
+For example:
+
+```text
+Next.js
+   ↓
+React
+   ↓
+JavaScript Runtime
+   ↓
+HTTP / Browser / Server
+   ↓
+Networking + OS + CS Fundamentals
+```
+
+That mindset is something I want to carry into every technology I learn.
+
+---
+
+# 🎯 My Current Roadmap
+
+```text
+                         SOFTWARE ENGINEER
+                                │
+              ┌─────────────────┼─────────────────┐
+              │                 │                 │
+              ▼                 ▼                 ▼
+          DSA / CS          FULL STACK           AI
+              │                 │                 │
+              ▼                 ▼                 ▼
+        Problem Solving     Applications        LLMs
+              │                 │                 │
+              ▼                 ▼                 ▼
+         System Design      Backend / DB        RAG
+              │                 │                 │
+              └─────────────────┼─────────────────┘
+                                │
+                                ▼
+                         PRODUCT ENGINEERING
+                                │
+                                ▼
+                             SaaS
+                                │
+                                ▼
+                      BUILD → SHIP → SCALE
+```
 
 ---
 
@@ -327,9 +542,9 @@ I'm actively improving my problem-solving skills for technical interviews and co
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=arhalok&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=arhalok&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arhalok&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arhalok&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
@@ -337,7 +552,7 @@ I'm actively improving my problem-solving skills for technical interviews and co
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=arhalok&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arhalok&theme=tokyonight&hide_border=true" width="70%" />
 
 </div>
 
@@ -347,118 +562,88 @@ I'm actively improving my problem-solving skills for technical interviews and co
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arhalok&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arhalok&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true" width="95%" />
 
 </div>
 
 ---
 
-# 🏆 GitHub Achievements
+# 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=arhalok&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=arhalok&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=6" />
 
 </div>
 
 ---
 
-# 🐍 My Contributions
+# 🐍 Contribution Graph
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/arhalok/arhalok/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/arhalok/arhalok/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
 </div>
-
----
-
-# 📚 Currently Learning
-
-<div align="center">
-
-| Area         | Technologies                                           |
-| :----------- | :----------------------------------------------------- |
-| **Frontend** | React · Next.js · TypeScript                           |
-| **Backend**  | Node.js · Express · APIs                               |
-| **Database** | PostgreSQL · Supabase                                  |
-| **AI**       | LLMs · RAG · Vercel AI SDK                             |
-| **DevOps**   | Git · Docker · AWS · Vercel                            |
-| **DSA**      | Algorithms · Problem Solving · Competitive Programming |
-| **Product**  | SaaS · System Design · Scalable Architecture           |
-
-</div>
-
----
-
-# 🎯 My Development Journey
-
-```text
-                 ┌──────────────────────┐
-                 │   Computer Science   │
-                 └──────────┬───────────┘
-                            │
-                            ▼
-                 ┌──────────────────────┐
-                 │         DSA          │
-                 │  Problem Solving     │
-                 └──────────┬───────────┘
-                            │
-                            ▼
-                 ┌──────────────────────┐
-                 │   Full Stack Web     │
-                 │ React + Next.js      │
-                 └──────────┬───────────┘
-                            │
-                            ▼
-                 ┌──────────────────────┐
-                 │    AI Engineering    │
-                 │ LLM + RAG + Agents   │
-                 └──────────┬───────────┘
-                            │
-                            ▼
-                 ┌──────────────────────┐
-                 │   SaaS Development   │
-                 │ Build → Ship → Scale │
-                 └──────────────────────┘
-```
 
 ---
 
 # 🌱 Beyond Code
 
-Outside development, I enjoy:
+When I'm not coding, I enjoy staying active and competitive.
 
-🏃 Staying active
-🏆 Playing **Kabbadi**
-🧠 Learning new technologies
-💡 Exploring product ideas
-🚀 Building things from scratch
+### 🏆 Kabbadi
+
+I play **Kabbadi**, which has taught me a lot about:
+
+`Teamwork` · `Decision Making` · `Discipline` · `Consistency`
 
 ---
 
-# 🤝 Let's Connect
+# 💡 Things I Care About
+
+```text
+┌─────────────────────────────────────────────┐
+│                                             │
+│  🧠 Understanding over memorization         │
+│                                             │
+│  🏗️ Architecture over shortcuts             │
+│                                             │
+│  ✨ User experience over unnecessary complexity│
+│                                             │
+│  🔒 Security by design                      │
+│                                             │
+│  ⚡ Performance where it matters             │
+│                                             │
+│  🧪 Reliability over "works on my machine"   │
+│                                             │
+│  🚀 Shipping over endless planning           │
+│                                             │
+└─────────────────────────────────────────────┘
+```
+
+---
+
+# 🤝 Let's Build Something
+
+I'm interested in collaborating on:
+
+**AI applications · Full Stack products · SaaS · Developer tools · Open source · Interesting engineering problems**
+
+If you're building something interesting, feel free to reach out.
 
 <div align="center">
 
-I'm always interested in **interesting projects, collaboration, AI applications, and SaaS ideas.**
-
-<br>
-
-<a href="https://linkedin.com/in/arhalok">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="mailto:[arhalok@gmail.com](mailto:arhalok@gmail.com)">
+<img src="https://img.shields.io/badge/Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="mailto:arhalok@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://linkedin.com/in/arhalok">
+<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/arhalok">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/arhalok">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/Explore%20My%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -467,8 +652,10 @@ I'm always interested in **interesting projects, collaboration, AI applications,
 
 <div align="center">
 
-### 💻 Build. Learn. Ship. Repeat. 🚀
+### ⚡ Build with purpose. Learn deeply. Ship relentlessly.
 
-**Thanks for visiting my profile!**
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,50:111827,100:0f172a&height=120&section=footer"/>
 
 </div>
