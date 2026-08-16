@@ -2,91 +2,166 @@
 
 # **Alok Kumar**
 
-### Computer Science Student · Software Engineer in Training
+### Computer Science Student · Full-Stack Developer · AI Application Developer
 
-**Full-Stack Development · AI Applications · Data Structures & Algorithms**
-
-<br/>
-
+<p>
 <a href="https://github.com/arhalok">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
-&nbsp;
 <a href="https://linkedin.com/in/arhalok">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;
 <a href="https://leetcode.com/arhalok">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
 </a>
-&nbsp;
 <a href="mailto:arhalok@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
+</p>
 
-<br/><br/>
-
+<p>
 <a href="YOUR_RESUME_URL">
-<img src="https://img.shields.io/badge/Resume-View%20Resume-111827?style=for-the-badge&logo=readme&logoColor=white" />
+<img src="https://img.shields.io/badge/Resume-View%20Resume-111827?style=for-the-badge&logo=readme&logoColor=white"/>
 </a>
+</p>
 
 </div>
 
 ---
 
-## About
+## Profile
 
-I'm a **Computer Science student** focused on becoming a strong software engineer through hands-on product development and rigorous problem solving.
+I'm a **Computer Science student and software developer** focused on building full-stack applications and AI-powered software.
 
-I build full-stack applications and explore how **AI capabilities can be integrated into real software systems**.
+My engineering interests span the application stack — from **frontend interfaces and backend services to databases, APIs, AI integration, and deployment** — with a strong emphasis on computer science fundamentals and algorithmic problem solving.
 
-My current work sits across three areas:
+I build with a simple principle:
 
-* **Software Engineering** — frontend, backend, APIs, databases, architecture
-* **AI Applications** — LLM integration, retrieval systems, AI-powered workflows
-* **Computer Science Fundamentals** — DSA, problem solving, systems and databases
+> **Understand the problem → design the system → build the solution → test it → improve it.**
 
-I prefer learning by building: understanding a problem, designing the system, implementing it, measuring the result, and iterating.
+### Core Areas
+
+* Full-Stack Web Development
+* Backend & API Engineering
+* AI / LLM Applications
+* Retrieval-Augmented Generation
+* Database Design
+* Data Structures & Algorithms
+* Software Architecture
+* SaaS Product Development
 
 ---
 
-# Current Role
+# Featured Engineering Work
 
-### AI Integration — SIH 2026
+## 🧠 SIH 2026 — AI-Powered Attendance System
 
 **Smart India Hackathon 2026**
 
-I'm currently contributing to an AI-powered attendance application, with a focus on the **AI integration layer and application architecture**.
+An intelligent attendance platform designed to make academic attendance information easier to access, query, and understand.
 
-My work involves exploring how an AI interface can interact with application data while keeping the system predictable, useful, and maintainable.
+### Engineering Contribution
 
-**Current areas:**
+**AI Integration · Application Architecture · Data Retrieval**
 
-`AI Integration` · `RAG` · `Vercel AI SDK` · `TypeScript` · `Next.js` · `PostgreSQL` · `Supabase`
+The AI layer connects natural-language interaction with application data while keeping the application's business logic and data access under explicit control.
 
-**Repository**
+### Technology
 
-→ https://github.com/konark-dev/student-portfolio
+`Next.js` · `React` · `TypeScript` · `Vercel AI SDK`
+`RAG` · `PostgreSQL` · `Supabase`
+
+### System Direction
+
+```text
+                    USER
+                      │
+                      ▼
+              ┌──────────────┐
+              │  Web Client  │
+              └──────┬───────┘
+                     │
+                     ▼
+              ┌──────────────┐
+              │ Application  │
+              │    Layer     │
+              └──────┬───────┘
+                     │
+          ┌──────────┼──────────┐
+          ▼          ▼          ▼
+      Retrieval     Tools    App Data
+          │          │          │
+          └──────────┼──────────┘
+                     ▼
+                 AI Model
+                     │
+                     ▼
+             Structured Output
+                     │
+                     ▼
+                   USER
+```
+
+**Repository:**
+https://github.com/konark-dev/student-portfolio
 
 ---
 
-# Engineering Focus
+## 💬 Matrix Chat Application
+
+A full-stack exploration of modern real-time communication systems.
+
+### Engineering Areas
+
+* Real-time messaging
+* Client/server communication
+* Authentication
+* Message persistence
+* Data modeling
+* Media handling
+* Application state
+* Real-time synchronization
+
+### Technology
+
+`React` · `TypeScript` · `Node.js` · `Web APIs` · `Database Systems`
+
+**Repository:**
+https://github.com/arhalok/element-web
+
+---
+
+# Engineering Capabilities
 
 <table>
 <tr>
 
 <td width="25%" valign="top">
 
-### Software
-
-**Full Stack**
+### Frontend
 
 * React
 * Next.js
 * TypeScript
+* JavaScript
+* HTML
+* CSS
+* Tailwind CSS
+* Responsive UI
+
+</td>
+
+<td width="25%" valign="top">
+
+### Backend
+
 * Node.js
+* Express
 * REST APIs
+* Server-side logic
 * Authentication
+* API integration
+* Application architecture
 
 </td>
 
@@ -94,44 +169,29 @@ My work involves exploring how an AI interface can interact with application dat
 
 ### Data
 
-**Backend & DB**
-
 * PostgreSQL
 * MySQL
 * Supabase
-* Data modeling
+* Firebase
 * SQL
-* Query design
+* Data modeling
+* Queries
+* Relationships
 
 </td>
 
 <td width="25%" valign="top">
 
-### AI
+### Infrastructure
 
-**Applications**
-
-* LLM APIs
-* RAG
-* Embeddings
-* Retrieval
-* Tool calling
-* Structured output
-
-</td>
-
-<td width="25%" valign="top">
-
-### Fundamentals
-
-**CS & DSA**
-
-* Algorithms
-* Data structures
-* DBMS
-* OS
-* Networks
-* System design
+* Git
+* GitHub
+* Docker
+* Linux
+* Vercel
+* AWS
+* GCP
+* Nginx
 
 </td>
 
@@ -140,224 +200,63 @@ My work involves exploring how an AI interface can interact with application dat
 
 ---
 
-# Selected Projects
+# AI Engineering
 
-## 01 — AI-Powered Attendance System
+I build AI capabilities as part of software systems rather than treating the model as an isolated component.
 
-### SIH 2026
+### AI Application Stack
 
-An attendance-focused application designed to make academic attendance information easier to access and reason about.
+| Layer                 | Capabilities                                         |
+| --------------------- | ---------------------------------------------------- |
+| **Model Integration** | LLM APIs, streaming, structured generation           |
+| **Context**           | Context construction and application state           |
+| **Retrieval**         | RAG, embeddings, semantic retrieval                  |
+| **Actions**           | Tool calling and application functions               |
+| **Interface**         | Conversational and AI-assisted UX                    |
+| **Reliability**       | Validation, controlled data access, failure handling |
+| **Performance**       | Latency, token usage, response streaming             |
+| **Architecture**      | AI + application + data integration                  |
 
-### Engineering Problem
-
-Traditional attendance systems expose raw information but provide limited ways for users to interact with that information naturally.
-
-The project explores an **AI application layer** that can interpret user requests and work with application data.
-
-### Architecture Direction
-
-```text
-                         USER
-                           │
-                           ▼
-                  ┌─────────────────┐
-                  │   Application   │
-                  │       UI        │
-                  └────────┬────────┘
-                           │
-                           ▼
-                  ┌─────────────────┐
-                  │  AI Application │
-                  │      Layer      │
-                  └────────┬────────┘
-                           │
-              ┌────────────┼────────────┐
-              │            │            │
-              ▼            ▼            ▼
-          Retrieval      Tools       Context
-              │            │            │
-              └────────────┼────────────┘
-                           │
-                           ▼
-                     Model / LLM
-                           │
-                           ▼
-                    Structured Output
-                           │
-                           ▼
-                         USER
-```
-
-### Technology
-
-`Next.js` · `React` · `TypeScript` · `Vercel AI SDK` · `RAG` · `PostgreSQL` · `Supabase`
-
-### My Contribution
-
-**AI integration and application-layer development.**
-
-> Add specific contributions here as the project progresses. Avoid vague descriptions.
-
-### Results
-
-> Add measurable results here when available:
->
-> * `[X]` users / testers
-> * `[X]%` reduction in query time
-> * `[X]` supported workflows
-> * `[X]` test cases
-> * Hackathon result / ranking
-
-**Repository**
-
-→ https://github.com/konark-dev/student-portfolio
-
----
-
-## 02 — Matrix Chat Application
-
-A full-stack exploration of real-time communication architecture.
-
-### Engineering Areas
-
-**Real-time communication**
-Message synchronization and persistence.
-
-**Application architecture**
-Separating client, server, data, and communication concerns.
-
-**Data modeling**
-Representing users, conversations, messages, and associated state.
-
-**Reliability**
-Handling asynchronous communication and application state.
-
-### Technology
-
-`React` · `TypeScript` · `Node.js` · `Web APIs` · `Database Systems`
-
-**Repository**
-
-→ https://github.com/arhalok/element-web
-
----
-
-## 03 — More Engineering Projects
-
-I'm building additional projects around:
-
-| Area            | Direction                                 |
-| --------------- | ----------------------------------------- |
-| AI              | LLM-powered applications                  |
-| SaaS            | End-to-end product development            |
-| Web             | Full-stack platforms                      |
-| Developer Tools | Productivity and automation               |
-| Systems         | Real-time and data-intensive applications |
-
-Projects will be added once they have enough engineering depth to be worth showcasing.
-
----
-
-# Technical Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript" />
-</p>
-
-**C++ · Python · JavaScript · TypeScript**
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
-</p>
-
-**HTML · CSS · React · Next.js · Tailwind CSS**
-
-### Backend & Data
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,supabase,firebase" />
-</p>
-
-**Node.js · Express · PostgreSQL · MySQL · Supabase · Firebase**
-
-### Infrastructure & Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,gcp,nginx,vercel" />
-</p>
-
-**Git · GitHub · Docker · Linux · AWS · GCP · Nginx · Vercel**
-
-### Development & Design
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,figma" />
-</p>
-
----
-
-# AI Application Development
-
-My current AI work is focused on the **application engineering layer around models**, not just prompting.
-
-### Areas I'm developing
-
-| Component             | What I'm learning                                 |
-| --------------------- | ------------------------------------------------- |
-| **Model APIs**        | Integrating LLM capabilities into applications    |
-| **Context**           | Supplying relevant application state to models    |
-| **RAG**               | Retrieval and context grounding                   |
-| **Embeddings**        | Semantic representation and search                |
-| **Tool Calling**      | Connecting models with application capabilities   |
-| **Structured Output** | Reliable machine-readable responses               |
-| **Streaming**         | Building responsive AI interfaces                 |
-| **Evaluation**        | Measuring quality and reliability                 |
-| **Safety**            | Controlling model behavior and application access |
-| **Cost / Latency**    | Designing practical production workflows          |
-
-### AI Application Mental Model
+### AI Architecture
 
 ```text
-                ┌─────────────────────┐
-                │       CLIENT        │
-                │  Web / Mobile UI    │
-                └──────────┬──────────┘
-                           │
-                           ▼
-                ┌─────────────────────┐
-                │ APPLICATION SERVER  │
-                └──────────┬──────────┘
-                           │
-              ┌────────────┼────────────┐
-              │            │            │
-              ▼            ▼            ▼
-          Database      Retrieval      Tools
-              │            │            │
-              └────────────┼────────────┘
-                           │
-                           ▼
-                    ┌──────────────┐
-                    │   LLM / AI   │
-                    └──────┬───────┘
-                           │
-                           ▼
-                   Validated Output
-                           │
-                           ▼
-                         Client
+┌───────────────────────────────────────────────┐
+│                    CLIENT                     │
+│             React / Next.js UI                │
+└───────────────────────┬───────────────────────┘
+                        │
+                        ▼
+┌───────────────────────────────────────────────┐
+│              APPLICATION LAYER                │
+│        Authentication · Business Logic        │
+└───────────────┬───────────────────┬───────────┘
+                │                   │
+                ▼                   ▼
+        ┌──────────────┐     ┌──────────────┐
+        │   Retrieval  │     │    Tools     │
+        │ RAG / Search │     │ APIs / Data  │
+        └──────┬───────┘     └──────┬───────┘
+               │                    │
+               └─────────┬──────────┘
+                         ▼
+                ┌────────────────┐
+                │   LLM / Model  │
+                └───────┬────────┘
+                        │
+                        ▼
+                Validated Response
+                        │
+                        ▼
+                      CLIENT
 ```
 
 ---
 
-# Computer Science & DSA
+# Computer Science
 
-I am preparing for software engineering interviews by strengthening algorithmic problem solving alongside development.
+Strong software engineering starts with strong fundamentals.
 
-### Core Topics
+### Data Structures & Algorithms
 
 `Arrays` · `Strings` · `Hashing` · `Binary Search`
 
@@ -369,33 +268,82 @@ I am preparing for software engineering interviews by strengthening algorithmic 
 
 `Dynamic Programming`
 
-### Problem-Solving Process
+### Problem-Solving Method
 
 ```text
-Understand
-    ↓
+Problem
+   ↓
 Constraints
-    ↓
+   ↓
 Brute Force
-    ↓
-Identify Pattern
-    ↓
-Optimize
-    ↓
+   ↓
+Pattern Recognition
+   ↓
+Optimization
+   ↓
 Time / Space Analysis
-    ↓
+   ↓
 Implementation
-    ↓
+   ↓
 Edge Cases
-    ↓
+   ↓
 Review
 ```
 
-The goal is not simply to collect solved problems.
+### Core Computer Science
 
-The goal is to develop the ability to **reason about unfamiliar problems under constraints**.
+| Domain                   | Knowledge                                               |
+| ------------------------ | ------------------------------------------------------- |
+| **Algorithms**           | Complexity, searching, sorting, recursion, optimization |
+| **Data Structures**      | Arrays, hashing, linked lists, trees, graphs            |
+| **DBMS**                 | SQL, relational modeling, indexing, transactions        |
+| **Operating Systems**    | Processes, threads, memory, concurrency                 |
+| **Networks**             | HTTP, TCP/IP, DNS, client-server communication          |
+| **Software Engineering** | APIs, Git, testing, architecture, maintainability       |
 
-### Profiles
+---
+
+# Technical Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript" />
+
+<br/>
+
+### Web
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+
+<br/>
+
+### Backend & Data
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,supabase,firebase" />
+
+<br/>
+
+### Infrastructure
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,gcp,nginx,vercel" />
+
+<br/>
+
+### Development
+
+<img src="https://skillicons.dev/icons?i=vscode,figma" />
+
+</div>
+
+---
+
+# Competitive Programming
+
+I use competitive programming to strengthen algorithmic reasoning, complexity analysis, and implementation under constraints.
+
+<div align="center">
 
 <a href="https://leetcode.com/arhalok">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
@@ -413,57 +361,7 @@ The goal is to develop the ability to **reason about unfamiliar problems under c
 <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
----
-
-# Engineering Fundamentals
-
-I'm progressively strengthening the fundamentals that sit underneath application development.
-
-| Area                     | Topics                                                  |
-| ------------------------ | ------------------------------------------------------- |
-| **Data Structures**      | Arrays, trees, graphs, hashing, heaps                   |
-| **Algorithms**           | Searching, sorting, greedy, DP, graph algorithms        |
-| **DBMS**                 | SQL, normalization, indexing, transactions              |
-| **Operating Systems**    | Processes, threads, memory, concurrency                 |
-| **Networks**             | HTTP, TCP/IP, DNS, networking fundamentals              |
-| **Software Engineering** | APIs, testing, version control, architecture            |
-| **System Design**        | Scalability, caching, databases, distributed components |
-
----
-
-# Development Workflow
-
-I aim to approach projects as engineering problems rather than just coding exercises.
-
-```text
-             PROBLEM
-                │
-                ▼
-          Requirements
-                │
-                ▼
-            Design
-                │
-       ┌────────┴────────┐
-       ▼                 ▼
-   Architecture        Data Model
-       │                 │
-       └────────┬────────┘
-                ▼
-           Implementation
-                │
-                ▼
-             Testing
-                │
-                ▼
-           Deployment
-                │
-                ▼
-            Monitoring
-                │
-                ▼
-           Iteration
-```
+</div>
 
 ---
 
@@ -471,39 +369,77 @@ I aim to approach projects as engineering problems rather than just coding exerc
 
 ### Computer Science
 
-**[YOUR COLLEGE / UNIVERSITY]**
+**[YOUR UNIVERSITY / COLLEGE]**
 
 `[Degree]` · `[Expected Graduation Year]`
 
-Relevant coursework:
+**Relevant Coursework**
 
-**Data Structures & Algorithms · DBMS · Operating Systems · Computer Networks · Software Engineering**
-
-> Replace the placeholders above before publishing.
+Data Structures & Algorithms · Database Management Systems · Operating Systems · Computer Networks · Software Engineering
 
 ---
 
-# Experience & Achievements
+# Hackathons & Activities
 
 ### Smart India Hackathon 2026
 
-**Team Member — AI Integration**
+**Team Member · AI Integration**
 
-Working on an AI-powered attendance solution and contributing to the application's AI integration layer.
+Contributing to an AI-powered attendance solution with responsibility for AI integration and application-level implementation.
 
 ### Competitive Programming
 
-Actively practicing algorithmic problem solving through:
+Regular algorithmic problem solving across:
 
 **LeetCode · Codeforces · CodeChef · HackerRank**
 
-### Open Source & Engineering Projects
+### Kabbadi
 
-Building and experimenting with full-stack and AI applications to develop practical software engineering experience.
+Competitive sport that has strengthened my discipline, teamwork, decision-making, and ability to perform under pressure.
 
 ---
 
-# GitHub
+# Engineering Approach
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+### 01
+
+**Fundamentals First**
+
+Understand the underlying system before relying on abstractions.
+
+</td>
+
+<td width="33%" align="center">
+
+### 02
+
+**Evidence Over Claims**
+
+Projects, code, benchmarks, and results matter more than buzzwords.
+
+</td>
+
+<td width="33%" align="center">
+
+### 03
+
+**Simple Systems**
+
+Prefer clear, maintainable solutions before introducing unnecessary complexity.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# GitHub Activity
 
 <div align="center">
 
@@ -533,20 +469,20 @@ Building and experimenting with full-stack and AI applications to develop practi
 
 ---
 
-# Contact
-
-I'm interested in **software engineering, AI applications, full-stack development, SaaS, and challenging technical problems.**
+# Connect
 
 <div align="center">
 
-<br/>
+### Interested in software engineering, AI systems, and building products.
 
-<a href="mailto:arhalok@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<br/>
 
 <a href="https://linkedin.com/in/arhalok">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:arhalok@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="YOUR_RESUME_URL">
@@ -559,6 +495,6 @@ I'm interested in **software engineering, AI applications, full-stack developmen
 
 <div align="center">
 
-**Build carefully. Learn deeply. Solve hard problems.**
+**Build. Solve. Ship.**
 
 </div>
