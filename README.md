@@ -9,23 +9,23 @@ Building end-to-end applications across the web, data, and AI stack.
 <br>
 
 <a href="https://github.com/arhalok">
-  <img src="https://cdn.simpleicons.org/github/8B949E" width="22" />
+  <img src="https://cdn.simpleicons.org/github/8B949E" width="22" height="22" />
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/arhalok">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="22" />
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="22" height="22" />
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://leetcode.com/arhalok">
-  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="22" />
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="22" height="22" />
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://codeforces.com/profile/arhalok">
-  <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="22" />
+  <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="22" height="22" />
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="mailto:arhalok@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="22" />
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="22" height="22" />
 </a>
 
 </div>
@@ -47,20 +47,19 @@ I build across **backend systems, full-stack applications, databases, and AI-pow
 
 <td width="50%" valign="top">
 
-<h3>SIH 2026</h3>
+### SIH 2026
 
-<b>AI Attendance Platform</b>
+**AI Attendance Platform**
 
-<p>
-AI-powered attendance system developed for
-<b>Smart India Hackathon 2026</b>.
-</p>
+AI-powered attendance system developed for **Smart India Hackathon 2026**.
 
-<p>
-<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,postgres,supabase" height="30" />
-</p>
+<br>
 
-<sub>AI integration · RAG · Vercel AI SDK</sub>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,postgres,supabase" height="30" />
+
+<br>
+
+<sub>AI Integration · RAG · Vercel AI SDK</sub>
 
 <br><br>
 
@@ -72,19 +71,19 @@ AI-powered attendance system developed for
 
 <td width="50%" valign="top">
 
-<h3>Matrix Chat</h3>
+### Matrix Chat
 
-<b>Real-Time Messaging</b>
+**Real-Time Messaging**
 
-<p>
 Full-stack messaging application focused on real-time communication, authentication, and persistence.
-</p>
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,typescript,nodejs" height="30" />
-</p>
+<br>
 
-<sub>Real-time communication · Client/server architecture</sub>
+<img src="https://skillicons.dev/icons?i=react,ts,nodejs" height="30" />
+
+<br>
+
+<sub>Real-Time Communication · Client/Server Architecture</sub>
 
 <br><br>
 
@@ -103,67 +102,39 @@ Full-stack messaging application focused on real-time communication, authenticat
 
 <div align="center">
 
-<table>
-<tr>
+**Languages**
 
-<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=cpp,python,js,ts" height="32" />
 
-<b>Languages</b>
+&nbsp;&nbsp;&nbsp;
 
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript" height="32" />
-
-</td>
-
-<td align="center" width="20%">
-
-<b>Frontend</b>
-
-<br><br>
+**Frontend**
 
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" height="32" />
 
-</td>
-
-<td align="center" width="20%">
-
-<b>Backend</b>
-
 <br><br>
+
+**Backend**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express" height="32" />
 
-</td>
+&nbsp;&nbsp;&nbsp;
 
-<td align="center" width="20%">
+**Data**
 
-<b>Data</b>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,firebase" height="32" />
 
-<br><br>
+&nbsp;&nbsp;&nbsp;
 
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,supabase,firebase" height="32" />
-
-</td>
-
-<td align="center" width="20%">
-
-<b>Cloud & Tools</b>
-
-<br><br>
+**Cloud & Tools**
 
 <img src="https://skillicons.dev/icons?i=aws,git,github,linux,vercel,docker,figma" height="32" />
 
-</td>
+<br><br>
 
-</tr>
-</table>
+**AI**
 
-<br>
-
-<sub>
-<b>AI</b>&nbsp;&nbsp; LLM APIs · RAG · Embeddings · Tool Calling · Vercel AI SDK
-</sub>
+<sub>LLM APIs · RAG · Embeddings · Tool Calling · Vercel AI SDK</sub>
 
 </div>
 
@@ -174,22 +145,22 @@ Full-stack messaging application focused on real-time communication, authenticat
 <div align="center">
 
 <a href="https://leetcode.com/arhalok">
-  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="28" />
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="28" height="28" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://codeforces.com/profile/arhalok">
-  <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="28" />
+  <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="28" height="28" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.codechef.com/users/arhalok">
-  <img src="https://cdn.simpleicons.org/codechef/5B4638" width="28" />
+  <img src="https://cdn.simpleicons.org/codechef/5B4638" width="28" height="28" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.hackerrank.com/arhalok">
-  <img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="28" />
+  <img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="28" height="28" />
 </a>
 
 <br><br>
@@ -199,7 +170,8 @@ Full-stack messaging application focused on real-time communication, authenticat
 <br><br>
 
 <sub>
-Arrays · Hashing · Binary Search · Recursion · Sorting · Linked Lists · Trees · Graphs · Greedy · Dynamic Programming
+Arrays · Hashing · Binary Search · Recursion · Sorting ·
+Linked Lists · Trees · Graphs · Greedy · Dynamic Programming
 </sub>
 
 </div>
@@ -208,42 +180,30 @@ Arrays · Hashing · Binary Search · Recursion · Sorting · Linked Lists · Tr
 
 ## Education
 
-<table>
-<tr>
+<div align="center">
 
-<td valign="top">
-
-### B.Tech — Computer Science & Engineering
+### B.Tech · Computer Science & Engineering
 
 **PIET Jaipur**
 
-Expected Graduation · **2029**
+`Expected Graduation · 2029`
 
-</td>
-
-<td align="right" valign="middle">
-
-<img src="https://img.shields.io/badge/CSE-2029-0A66C2?style=flat-square" />
-
-</td>
-
-</tr>
-</table>
+</div>
 
 ---
 
 <div align="center">
 
 <a href="https://github.com/arhalok">
-  <img src="https://cdn.simpleicons.org/github/8B949E" width="20" />
+  <img src="https://cdn.simpleicons.org/github/8B949E" width="20" height="20" />
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/arhalok">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="20" />
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="20" height="20" />
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="mailto:arhalok@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="20" />
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="20" height="20" />
 </a>
 
 </div>
