@@ -61,7 +61,7 @@ AI-powered attendance system developed for
 <br><br>
 
 <a href="https://github.com/konark-dev/student-portfolio">
-Repository →
+<b>Repository →</b>
 </a>
 
 </td>
@@ -81,7 +81,7 @@ Full-stack messaging application focused on real-time communication, authenticat
 <br><br>
 
 <a href="https://github.com/arhalok/element-web">
-Repository →
+<b>Repository →</b>
 </a>
 
 </td>
@@ -97,6 +97,7 @@ Repository →
 
 <table>
 <tr>
+
 <td align="center" width="20%">
 
 <b>Languages</b>
@@ -143,9 +144,10 @@ Repository →
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=aws,git,github,linux,vercel,docker" height="32">
+<img src="https://skillicons.dev/icons?i=aws,git,github,linux,vercel,docker,figma" height="32">
 
 </td>
+
 </tr>
 </table>
 
@@ -161,30 +163,34 @@ Repository →
 
 ## Problem Solving
 
-Competitive programming is a core part of my software engineering practice.
-
 <div align="center">
 
 <a href="https://leetcode.com/arhalok">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 &nbsp;
 <a href="https://codeforces.com/profile/arhalok">
-<img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://www.codechef.com/users/arhalok">
-<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=flat-square&logo=codechef&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://www.hackerrank.com/arhalok">
-<img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
 </a>
 
 <br><br>
 
+<strong>
+Competitive Programming · Algorithmic Thinking · Complexity Analysis
+</strong>
+
+<br><br>
+
 <sub>
-Arrays · Hashing · Binary Search · Recursion · Sorting · Trees · Graphs · Dynamic Programming
+Arrays · Hashing · Binary Search · Recursion · Sorting · Linked Lists · Trees · Graphs · Greedy · Dynamic Programming
 </sub>
 
 </div>
