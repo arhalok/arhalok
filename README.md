@@ -30,7 +30,7 @@ Building end-to-end applications across the web, data, and AI stack.
 
 ## About
 
-I'm a B.Tech Computer Science student at **PIET Jaipur**, graduating in 2029.
+I'm a **B.Tech Computer Science student at PIET Jaipur**, graduating in 2029.
 
 I work across **backend systems, full-stack applications, databases, and AI-powered products**, with competitive programming as a core part of my problem-solving practice.
 
@@ -43,44 +43,45 @@ I work across **backend systems, full-stack applications, databases, and AI-powe
 
 <td width="50%" valign="top">
 
-### SIH 2026
+<h3>SIH 2026</h3>
 
-**AI Attendance Platform**
+<b>AI Attendance Platform</b>
 
-AI-powered attendance system developed for **Smart India Hackathon 2026**.
+<p>
+AI-powered attendance system developed for
+<b>Smart India Hackathon 2026</b>.
+</p>
 
-<br>
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,postgres,supabase" height="30">
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,postgres,supabase" height="30">
 
 <br><br>
 
-`Vercel AI SDK` · `RAG`
+<sub>Vercel AI SDK · RAG</sub>
 
 <br><br>
 
 <a href="https://github.com/konark-dev/student-portfolio">
-  <b>Repository →</b>
+Repository →
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### Matrix Chat
+<h3>Matrix Chat</h3>
 
-**Real-Time Messaging**
+<b>Real-Time Messaging</b>
 
+<p>
 Full-stack messaging application focused on real-time communication, authentication, and persistence.
+</p>
 
-<br>
-
-<img src="https://skillicons.dev/icons?i=react,ts,nodejs" height="30">
+<img src="https://skillicons.dev/icons?i=react,typescript,nodejs" height="30">
 
 <br><br>
 
 <a href="https://github.com/arhalok/element-web">
-  <b>Repository →</b>
+Repository →
 </a>
 
 </td>
@@ -94,41 +95,65 @@ Full-stack messaging application focused on real-time communication, authenticat
 
 <div align="center">
 
-### Languages
+<table>
+<tr>
+<td align="center" width="20%">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript" height="38">
-
-<br><br>
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" height="38">
+<b>Languages</b>
 
 <br><br>
 
-### Backend
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript" height="32">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express" height="38">
+</td>
 
-<br><br>
+<td align="center" width="20%">
 
-### Data & Cloud
-
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,supabase,firebase,aws" height="38">
+<b>Frontend</b>
 
 <br><br>
 
-### Tools & Infrastructure
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" height="32">
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,vercel,docker,figma" height="38">
+</td>
+
+<td align="center" width="20%">
+
+<b>Backend</b>
 
 <br><br>
 
-<b>AI</b>
+<img src="https://skillicons.dev/icons?i=nodejs,express" height="32">
+
+</td>
+
+<td align="center" width="20%">
+
+<b>Data</b>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,firebase" height="32">
+
+</td>
+
+<td align="center" width="20%">
+
+<b>Cloud & Tools</b>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=aws,git,github,linux,vercel,docker" height="32">
+
+</td>
+</tr>
+</table>
 
 <br>
 
-LLM APIs · RAG · Embeddings · Tool Calling · Vercel AI SDK
+<sub>
+<b>AI</b> · LLM APIs · RAG · Embeddings · Tool Calling · Vercel AI SDK
+</sub>
 
 </div>
 
@@ -136,29 +161,31 @@ LLM APIs · RAG · Embeddings · Tool Calling · Vercel AI SDK
 
 ## Problem Solving
 
-Competitive programming is a core part of my approach to software engineering.
+Competitive programming is a core part of my software engineering practice.
 
 <div align="center">
 
 <a href="https://leetcode.com/arhalok">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
 </a>
 &nbsp;
 <a href="https://codeforces.com/profile/arhalok">
-  <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" />
+<img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://www.codechef.com/users/arhalok">
-  <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=flat-square&logo=codechef&logoColor=white" />
+<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=flat-square&logo=codechef&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://www.hackerrank.com/arhalok">
-  <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />
+<img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />
 </a>
 
 <br><br>
 
-`Arrays` · `Hashing` · `Binary Search` · `Trees` · `Graphs` · `Dynamic Programming`
+<sub>
+Arrays · Hashing · Binary Search · Recursion · Sorting · Trees · Graphs · Dynamic Programming
+</sub>
 
 </div>
 
