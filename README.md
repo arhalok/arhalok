@@ -1,39 +1,43 @@
-## Tech Stack
+## Selected Work
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### Languages
+### SIH 2026
+**AI Attendance Platform**
 
-<img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript" height="38">
+AI-powered attendance system built for Smart India Hackathon 2026.
 
-<br><br>
+<br>
 
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" height="38">
-
-<br><br>
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express" height="38">
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,postgres,supabase" height="28">
 
 <br><br>
 
-### Data & AI
+<a href="https://github.com/konark-dev/student-portfolio">
+<b>Repository →</b>
+</a>
 
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,supabase,firebase" height="38">
+</td>
+
+<td width="50%" valign="top">
+
+### Matrix Chat
+**Real-Time Messaging**
+
+Full-stack messaging application focused on real-time communication and persistence.
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=react,ts,nodejs" height="28">
 
 <br><br>
 
-### Cloud & DevOps
+<a href="https://github.com/arhalok/element-web">
+<b>Repository →</b>
+</a>
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,nginx,vercel" height="38">
-
-<br><br>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,figma" height="38">
-
-</div>
+</td>
+</tr>
+</table>
