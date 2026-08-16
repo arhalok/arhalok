@@ -200,7 +200,7 @@ Arrays · Hashing · Binary Search · Recursion · Sorting · Linked Lists · Tr
 ## Education
 
 **B.Tech — Computer Science & Engineering**  
-**PIET Jaipur** · Expected 2029
+**PIET Jaipur** · Expected **2029**
 
 ---
 
